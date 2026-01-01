@@ -13,7 +13,7 @@
 🌱 Also i'm on track for learning more about **Artificial Intelligence and Systems Design.** <br/>
 ✍️ In my free time, i pursue **automation and robotics.** <br/>
 💬 Feel free to reach out to me for creating **websites or webapplications.** <br/>
-✉️ You can shoot me an email at **subhinsubramanian@gmail.com** <br/>
+✉️ You can shoot me an email at **subhinsubramanian@gmail.com** or What'sApp me at **+91 9645283333** <br/>
 📄 Please have a look at my portfolio **https://portfolio-subhi.netlify.app/** to see my works, education and skills. <br/>
 
 <br/>
@@ -49,6 +49,8 @@
 
 ## 📫 Connect with me 
 
+📩 Email: subhinsubramanian@gmail.com 
+📱 What'sApp: +91 9645283333
 📸 Instagram: https://www.instagram.com/deve.lopermonkey/ <br/>
 ▶️ YouTube: https://www.youtube.com/@Developer_Monkey-x3z <br/>
 💼 LinkedIn: https://www.linkedin.com/in/subhin-ms-433a54167/ <br/>
