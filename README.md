@@ -49,8 +49,8 @@
 
 ## 📫 Connect with me 
 
-📩 Email: subhinsubramanian@gmail.com 
-📱 What'sApp: +91 9645283333
+📩 Email: subhinsubramanian@gmail.com <br/>
+📱 What'sApp: +91 9645283333 <br/>
 📸 Instagram: https://www.instagram.com/deve.lopermonkey/ <br/>
 ▶️ YouTube: https://www.youtube.com/@Developer_Monkey-x3z <br/>
 💼 LinkedIn: https://www.linkedin.com/in/subhin-ms-433a54167/ <br/>
