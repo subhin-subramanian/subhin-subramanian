@@ -13,7 +13,7 @@
 🌱 Also i'm on track for learning more about **Artificial Intelligence and Systems Design.** <br/>
 ✍️ In my free time, i pursue **automation and robotics.** <br/>
 💬 Feel free to reach out to me for creating **websites or webapplications.** <br/>
-✉️ You can shoot me an email at **developermonkey8@gmail.com** <br/>
+✉️ You can shoot me an email at **subhinsubramanian@gmail.com** <br/>
 📄 Please have a look at my portfolio **https://portfolio-subhi.netlify.app/** to see my works, education and skills. <br/>
 
 <br/>
